@@ -25,11 +25,11 @@ A presentation by Philipp Beckmann and Laurens Terhoeven
 
 ---
 
-# Areas of Hierarchy
+# Areas of hierarchy
 
 ---
 
-# Examples in Nature
+# Examples in nature
 
 ---
 
