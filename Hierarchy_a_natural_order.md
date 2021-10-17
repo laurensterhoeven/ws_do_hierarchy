@@ -9,7 +9,6 @@ A presentation by Philipp Beckmann and Laurens Terhoeven
 ---
 
 ### Structure
-
 1. Definition of hierarchy
 1. Areas of hierarchies
 1. Examples of hierarchies in nature
@@ -21,7 +20,7 @@ A presentation by Philipp Beckmann and Laurens Terhoeven
 
 ---
 
-# Definition of Hierarchy
+# Definition of hierarchy
 
 ---
 
@@ -49,4 +48,4 @@ A presentation by Philipp Beckmann and Laurens Terhoeven
 
 ---
 
-## We Thank you all very much for your attention
+## We thank you all very much for your attention
