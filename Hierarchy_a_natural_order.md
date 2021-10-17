@@ -19,7 +19,6 @@
 ---
 
 ### Structure
-
 1. Definition of hierarchy
 1. Areas of hierarchies
 1. Examples of hierarchies in nature
