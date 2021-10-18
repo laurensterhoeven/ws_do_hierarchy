@@ -52,9 +52,9 @@
 
 ### Structure
 1. Definition of hierarchy
-1. Areas of hierarchies
+1. Types of hierarchies
+1. Dominance hierarchy
 1. Examples of hierarchies in nature
-1. Shallow and steep hierarchies
 1. Examples of hierarchic systems in humans
 1. Parallels in humans & nature
 1. Advantages and disadvantages of hierarchic systems
@@ -62,14 +62,30 @@
 
 ---
 
-## Definition of Hierarchy
+## What is a hierarchy?
 
-A system in which people, animals or things are put at various levels or ranks according to their importance
+*"A system in which people, animals or things are put at various levels or ranks according to their importance."*
 
 ---
 
-## Areas of hierarchy
+## What types of hierarchies are there?
 
+Hierarchies structure:
+
+* Social systems:
+
+    * Dominance hierarchy
+    * Status hierarchy
+
+* Object systems
+
+---
+## Dominance hierarchy
+
+* displays social structure of animals
+* emerges when members of animal social groups interact
+* competition for access to limited resources and mating opportunities
+* only rule: demonstration of physically superiority prevails
 
 ---
 
@@ -77,9 +93,6 @@ A system in which people, animals or things are put at various levels or ranks a
 
 ---
 
-## Shallow and steep hierarchies
-
----
 
 ## Examples in humans
 
