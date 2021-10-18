@@ -72,20 +72,12 @@
 
 Hierarchies structure:
 
-* Social systems:
-
-    * Dominance hierarchy
-    * Status hierarchy
+* Social systems
 
 * Object systems
 
 ---
-## Dominance hierarchy
-
-* displays social structure of animals
-* emerges when members of animal social groups interact
-* competition for access to limited resources and mating opportunities
-* only rule: demonstration of physically superiority prevails
+## Status hierarchy
 
 ---
 
