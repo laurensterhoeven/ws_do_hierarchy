@@ -8,11 +8,43 @@
     from {  transform: translateX(-1000px)    }
     to   {  transform: translateX(0px) }
     }
+
+    .fade-in {
+        animation: fadeIn 15s;
+        -webkit-animation: fadeIn 15s;
+        -moz-animation: fadeIn 15s;
+        -o-animation: fadeIn 15s;
+        -ms-animation: fadeIn 15s;
+    }
+    @keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+
+    @-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+
+    @-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+
+    @-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+
+    @-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
 </style>
 
 <section data-background-image="bg1.png">
-    <h2 id="topic"> Hierarchy, a natural order? </h2>
-    <p id="creators"class="slide">A presentation by Philipp Beckmann and Laurens Terhoeven</p>
+    <h2 class="fade-in"> Hierarchy, a natural order? </h2>
+    <p class="fade-in">A presentation by Philipp Beckmann and Laurens Terhoeven</p>
 </section>
 
 
