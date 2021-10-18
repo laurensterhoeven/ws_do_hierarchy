@@ -75,9 +75,17 @@ Hierarchies structure:
 * Social systems
 
 * Object systems
+    * pyramid infographics
+    * bullet points
 
 ---
 ## Status hierarchy
+
+* displays social structure of humans and animals
+* members are placed in this hierarchy according to their social status
+*  allocation of resources, leadership positions and power
+* humans: degree or position, competence, wealth, appereance...
+* animals: physically superiority & dominant behavior
 
 ---
 
@@ -101,6 +109,13 @@ Orang-Utan Picture
 
 ## Examples in humans
 
+* organizations, military, government, traditional families and sport
+
+* organizations: strucutring of tasks, responsibilites, flow of information
+
+* distinction: flat and steep organizational structure
+
+
 ---
 
 ## Parallels in humans & nature
@@ -121,6 +136,9 @@ Orang-Utan Picture
 
 ## Changes in hierarchies established through digitalization
 
+* digital transformation --> super fast change
+* agility and flexibility needed to keep up
+* steep hierarchies limits agility and flexibility
 ---
 
 # We thank you all very much for your attention!
