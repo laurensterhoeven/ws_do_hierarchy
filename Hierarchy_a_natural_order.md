@@ -91,13 +91,27 @@ Hierarchies structure:
 
 ## Examples in nature
 
+---
+
+Wolves Picture
 
 ---
 
-## 
+Ants Picture
 
+---
+
+Orang-Utan Picture
+
+---
+
+---
 
 ## Examples in humans
+
+---
+
+## Parallels in humans & nature
 
 ---
 
@@ -105,9 +119,17 @@ Hierarchies structure:
 
 ---
 
+### Advantages
+
+---
+
+### Disadvantages
+
+---
+
 ## Changes in hierarchies established through digitalization
 
 ---
 
-### We Thank you all very much for your attention
+# We thank you all very much for your attention!
 
