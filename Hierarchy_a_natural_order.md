@@ -1,89 +1,54 @@
-<style>
-    .slide {
-        animation-name: slide;  
-        animation-duration: 1s;               
-        animation-iteration-count: 1;
-    }
-    @keyframes slide {
-    from {  transform: translateX(-1000px)    }
-    to   {  transform: translateX(0px) }
-    }
-
-    .fade-in {
-        animation: fadeIn 15s;
-        -webkit-animation: fadeIn 15s;
-        -moz-animation: fadeIn 15s;
-        -o-animation: fadeIn 15s;
-        -ms-animation: fadeIn 15s;
-    }
-    @keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
-    }
-
-    @-moz-keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
-    }
-
-    @-webkit-keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
-    }
-
-    @-o-keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
-    }
-
-    @-ms-keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
-    }
-</style>
-
 <section data-background-image="bg1.png">
-    <h2 class="fade-in"> Hierarchy, a natural order? </h2>
-    <p class="fade-in">A presentation by Philipp Beckmann and Laurens Terhoeven</p>
+    <h2 class="fade-in"> Hierarchy - a natural order? </h2>
+    <p class="fade-in">Philipp Beckmann and Laurens Terhoeven</p>
 </section>
 
 
 ---
-
-### Structure
-1. Definition of hierarchy
-1. Types of hierarchies
-1. Dominance hierarchy
-1. Examples of hierarchies in nature
-1. Examples of hierarchic systems in humans
-1. Parallels in humans & nature
-1. Advantages and disadvantages of hierarchic systems
-1. Changes brought through digitalization
-
+<section data-background-image="bg1.png">
+<h3>Structure</h3>
+<ul id="structure">
+    <li>Definition of hierarchy</li>
+    <li>Types of hierarchies</li>
+    <li>Status hierarchy</li>
+    <li>Examples of hierarchies in nature</li>
+    <li>Examples of hierarchic systems in humans</li>
+    <li>Parallels in humans & nature</li>
+    <li>Advantages and disadvantages of hierarchic systems</li>
+    <li>Conclusion</li>
+    <li>Future outlook</li>
+</ul>
+</section>
 ---
 
-## What is a hierarchy?
+<section data-background-image="bg1.png">
+<h3 id="definition">What is a hierarchy?</h3>
 
 *"A system in which people, animals or things are put at various levels or ranks according to their importance."*
+</section>
 
 ---
-
-## What types of hierarchies are there?
+<section data-background-image="bg1.png">
+<h3>What types of hierarchies are there?</h3>
 
 Hierarchies structure:
 
-* Social systems
+<ul id="hierarchy-types-ul">
+    <li>Social systems</li>
+    <li>Object systems</li>
+    <ul>
+        <li>pyramid infographics</li>
+        <li>bullet points</li>
+    </ul>
 
-* Object systems
-    * pyramid infographics
-    * bullet points
-
+</ul>
+</section>
 ---
 ## Status hierarchy
 
 * displays social structure of humans and animals
 * members are placed in this hierarchy according to their social status
-*  allocation of resources, leadership positions and power
+* allocation of resources, leadership positions and power
 * humans: degree or position, competence, wealth, appereance...
 * animals: physically superiority & dominant behavior
 
@@ -143,3 +108,59 @@ Orang-Utan Picture
 
 # We thank you all very much for your attention!
 
+<style>
+    #structure {
+        padding-top: 0em;
+    }
+    #hierarchy-types-ul li{
+        padding: 0.1em;
+    }
+    #structure li {
+        font-size: 24pt;
+        padding: 0.2em;
+    }
+    #definition {
+        margin-bottom: 1em;
+    }
+    .slide {
+        animation-name: slide;  
+        animation-duration: 1s;               
+        animation-iteration-count: 1;
+    }
+    @keyframes slide {
+    from {  transform: translateX(-1000px)    }
+    to   {  transform: translateX(0px) }
+    }
+
+    .fade-in {
+        animation: fadeIn 10s;
+        -webkit-animation: fadeIn 10s;
+        -moz-animation: fadeIn 10s;
+        -o-animation: fadeIn 10s;
+        -ms-animation: fadeIn 10s;
+    }
+    @keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+
+    @-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+
+    @-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+
+    @-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+
+    @-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+</style>
