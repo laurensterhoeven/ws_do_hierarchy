@@ -31,8 +31,7 @@
 <section data-background-image="bg1.png">
 <h3>What types of hierarchies are there?</h3>
 
-Hierarchies structure:
-
+<div id="hierarchy-types-left">
 <ul id="hierarchy-types-ul">
     <li>Social systems</li>
     <li>Object systems</li>
@@ -40,18 +39,23 @@ Hierarchies structure:
         <li>pyramid infographics</li>
         <li>bullet points</li>
     </ul>
-
+</div>
+<div id="hierarchy-types-right">
+<img src="infographic.png">
+</div>
 </ul>
 </section>
 ---
-## Status hierarchy
+
+<section data-background-image="bg1.png">
+<h3>Status hierarchy </h3>
 
 * displays social structure of humans and animals
-* members are placed in this hierarchy according to their social status
 * allocation of resources, leadership positions and power
 * humans: degree or position, competence, wealth, appereance...
 * animals: physically superiority & dominant behavior
 
+</section>
 ---
 
 ## Examples in nature
@@ -113,6 +117,7 @@ Orang-Utan Picture
         padding-top: 0em;
     }
     #hierarchy-types-ul li{
+        margin-top: 0.4em;
         padding: 0.1em;
     }
     #structure li {
@@ -122,6 +127,16 @@ Orang-Utan Picture
     #definition {
         margin-bottom: 1em;
     }
+    #hierarchy-types-left {
+        float: left;
+    }
+    #hierarchy-types-right {
+        float: right;
+    }
+    #hierarchy-types-right img {
+        width: 10em;
+    }
+
     .slide {
         animation-name: slide;  
         animation-duration: 1s;               
