@@ -6,7 +6,8 @@
 
 ---
 <section data-background-image="bg1.png">
-<h3>Structure</h3>
+
+### Structure
 <ul id="structure">
     <li>Definition of hierarchy</li>
     <li>Types of hierarchies</li>
@@ -14,8 +15,7 @@
     <li>Examples of hierarchies in nature</li>
     <li>Examples of hierarchic systems in humans</li>
     <li>Parallels in humans & nature</li>
-    <li>Advantages and disadvantages of hierarchic systems</li>
-    <li>Conclusion</li>
+    <li>Pros & cons of hierarchic systems</li>
     <li>Future outlook</li>
 </ul>
 </section>
@@ -29,89 +29,203 @@
 
 ---
 <section data-background-image="bg1.png">
-<h3>What types of hierarchies are there?</h3>
+
+### What types of hierarchies are there?
 
 <div id="hierarchy-types-left">
-<ul id="hierarchy-types-ul">
-    <li>Social systems</li>
-    <li>Object systems</li>
-    <ul>
-        <li>pyramid infographics</li>
-        <li>bullet points</li>
+    <ul id="hierarchy-types-ul">
+        <li>Social systems</li>
+        <li>Object systems</li>
+        <ul>
+            <li>pyramid infographics</li>
+            <li>bullet points</li>
+        </ul>
     </ul>
 </div>
 <div id="hierarchy-types-right">
-<img src="infographic.png">
+    <img src="infographic.png">
 </div>
-</ul>
+
 </section>
 ---
 
 <section data-background-image="bg1.png">
-<h3>Status hierarchy </h3>
 
-* displays social structure of humans and animals
-* allocation of resources, leadership positions and power
-* humans: degree or position, competence, wealth, appereance...
-* animals: physically superiority & dominant behavior
+### Hierarchy of social systems
+
+<div id="social-systems">
+    <ul>
+        <li>displays social structure of humans and animals</li>
+        <li>allocation of resources, leadership positions and power</li>
+        
+    </ul>
+</div>
+
+<div id="social-status">
+<table>
+  <tr>
+    <th>social status:</th>
+  </tr>
+  <tr>
+    <td>role & position</td>
+  </tr>
+  <tr>
+    <td>competences</td>
+  </tr>
+  <tr>
+    <td>appearance</td>
+  </tr>
+  <tr>
+    <td>dominance</td>
+  </tr>
+  <tr>
+    <td>wealth</td>
+  </tr>
+  <tr>
+    <td>family of origin</td>
+  </tr>
+</table>
+
+</div>
 
 </section>
 ---
 
-## Examples in nature
 
+<section data-background-image="bg1.png">
+
+### Examples in nature
+<table id="table-nature">
+  <tr>
+    <th>Animal</th>
+    <th>Main feature</th>
+  </tr>
+  <tr>
+    <td>Ants</td>
+    <td>physiological pre-definition</td>
+  </tr>
+  <tr>
+    <td>Wolves</td>
+    <td>familiy hierarchy</td>
+  </tr>
+  <tr>
+    <td>Birds</td>
+    <td>appearance & performance</td>
+  </tr>
+  <tr>
+    <td>Orang-Utan</td>
+    <td>dominance behavior</td>
+  </tr>
+</table>
+</section>
+---
+<section data-background-image="bg1.png">
+
+### What examples do you know for hierarchies in humans?
+</section>
+---
+<section data-background-image="bg1.png">
+
+### Hierarchies in humans
+
+* companys & organizations
+* military
+* governments
+* traditional families
+* sports
+
+</section>
 ---
 
-Wolves Picture
+<section data-background-image="bg1.png">
+
+### Hierarchies in companys & organizations
+
+<img id="image-hierarchy" src="hierarchy.png">
+
+<ul id="company-ul">
+    <li>structuring of tasks, responsibilites and flow of information</li>
+    <li>flat and hierarchical organizational structures</li>
+</ul>
+
+
+</section>
 
 ---
+<section data-background-image="bg1.png">
+<h3>What are parallels in humans & nature?</h3>
 
-Ants Picture
 
+</section>
 ---
 
-Orang-Utan Picture
+
+<section data-background-image="bg1.png">
+<h3>Pros & cons of Hierarchic systems</h3>
+<table id="prosncons">
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>Clear chain of command</td>
+    <td>Poor flexibility</td>
+  </tr>
+  <tr>
+    <td>Clear paths of advancements</td>
+    <td>Communication barriers</td>
+  </tr>
+  <tr>
+    <td>Specialization</td>
+    <td>Organizational disunity</td>
+  </tr>
+</table>
+</section>
 
 ---
+<section data-background-image="bg1.png">
 
+### Future outlook
+
+What do you think how digital transformation is affecting hierarchies?
+
+</section>
 ---
+<section data-background-image="bg1.png">
 
-## Examples in humans
+### Hierarchies & Digital Transformation
 
-* organizations, military, government, traditional families and sport
-
-* organizations: strucutring of tasks, responsibilites, flow of information
-
-* distinction: flat and steep organizational structure
-
-
+* technology driven super-fast change
+* dynamic decision-making process &
+* agile reaction to trends needed to keep up
+* steep hierarchies restrict agility and flexibility
+</section>
 ---
+<section data-background-image="bg1.png">
 
-## Parallels in humans & nature
+### Sources
+<span id="links">
 
+[https://dictionary.cambridge.org/de/worterbuch/englisch/hierarchy](https://dictionary.cambridge.org/de/worterbuch/englisch/hierarchy)
+
+[https://link.springer.com/article/10.1007%2Fs10799-016-0256-6](https://link.springer.com/article/10.1007%2Fs10799-016-0256-6)
+
+[https://www.annualreviews.org/doi/10.1146/annurev-soc-071811-145503](https://www.annualreviews.org/doi/10.1146/annurev-soc-071811-145503)
+
+[https://link.springer.com/chapter/10.1007%2F978-3-319-12697-5_24](https://link.springer.com/chapter/10.1007%2F978-3-319-12697-5_24)
+
+[https://testhelden.com/bundeswehr-abzeichen/](https://testhelden.com/bundeswehr-abzeichen/)
+
+Günter Wöhe/Ulrich Döring, Einführung in die Allgemeine Betriebswirtschaftslehre, 25. Auflage, 2013, S. 108
+
+</span>
+</section>
 ---
+<section data-background-image="bg1.png">
 
-## Advantages and disadvantages of hierarchic systems
+## Thank you!
 
----
-
-### Advantages
-
----
-
-### Disadvantages
-
----
-
-## Changes in hierarchies established through digitalization
-
-* digital transformation --> super fast change
-* agility and flexibility needed to keep up
-* steep hierarchies limits agility and flexibility
----
-
-# We thank you all very much for your attention!
-
+</section>
 <style>
     #structure {
         padding-top: 0em;
@@ -133,8 +247,52 @@ Orang-Utan Picture
     #hierarchy-types-right {
         float: right;
     }
+    #company-left {
+        float: left;
+    }
+    #comapny-right {
+        float: right;
+    }
+    #image-hierarchy {
+        width: 15em;
+    }
+
+    #company-ul li {
+        font-size: 20pt;
+        padding: 0.3em;
+    }
+
     #hierarchy-types-right img {
         width: 10em;
+    }
+    #social-systems li {
+        font-size: 24pt;
+        padding: 0.2em;
+    }
+    #social-systems {
+        
+    }
+
+    #social-status {
+        margin-top: 1em;
+        font-size: 16pt;
+    }
+
+    #table-nature td {
+        font-size: 28pt;
+    }
+
+
+
+    #prosncons {
+        font-size: 34pt;
+    }
+    #prosncons td {
+        font-size: 22pt;
+    }
+
+    #links {
+        font-size: 16pt;
     }
 
     .slide {
