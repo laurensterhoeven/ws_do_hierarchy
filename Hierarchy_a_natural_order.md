@@ -11,7 +11,6 @@
 <ul id="structure">
     <li>Definition of hierarchy</li>
     <li>Types of hierarchies</li>
-    <li>Status hierarchy</li>
     <li>Examples of hierarchies in nature</li>
     <li>Examples of hierarchic systems in humans</li>
     <li>Parallels in humans & nature</li>
@@ -55,7 +54,7 @@
 
 <div id="social-systems">
     <ul>
-        <li>displays social structure of humans and animals</li>
+        <li>displays social structure of humans and animals -> status hierarchy</li>
         <li>allocation of resources, leadership positions and power</li>
         
     </ul>
@@ -113,7 +112,7 @@
     <td>appearance & performance</td>
   </tr>
   <tr>
-    <td>Orang-Utan</td>
+    <td>Orangutan</td>
     <td>dominance behavior</td>
   </tr>
 </table>
@@ -128,7 +127,7 @@
 
 ### Hierarchies in humans
 
-* companys & organizations
+* companies & organizations
 * military
 * governments
 * traditional families
@@ -139,7 +138,7 @@
 
 <section data-background-image="bg1.png">
 
-### Hierarchies in companys & organizations
+### Hierarchies in companies & organizations
 
 <img id="image-hierarchy" src="hierarchy.png">
 
@@ -203,6 +202,13 @@ What do you think how digital transformation is affecting hierarchies?
 ---
 <section data-background-image="bg1.png">
 
+## Thank you!
+
+</section>
+
+---
+<section data-background-image="bg1.png">
+
 ### Sources
 <span id="links">
 
@@ -214,18 +220,24 @@ What do you think how digital transformation is affecting hierarchies?
 
 [https://link.springer.com/chapter/10.1007%2F978-3-319-12697-5_24](https://link.springer.com/chapter/10.1007%2F978-3-319-12697-5_24)
 
+[https://professormarkvanvugt.com/images/files/Handbook_of_Evolutionary_Psychologymvv2014rev.pdf](https://professormarkvanvugt.com/images/files/Handbook_of_Evolutionary_Psychologymvv2014rev.pdf)
+
 [https://testhelden.com/bundeswehr-abzeichen/](https://testhelden.com/bundeswehr-abzeichen/)
+
+[https://bizfluent.com/about-5065481-matrix-organizational-chart-.html](https://bizfluent.com/about-5065481-matrix-organizational-chart-.html)
+
+[https://sciencenorway.no/ulv/wolf-packs-dont-actually-have-alpha-males-and-alpha-females-the-idea-is-based-on-a-misunderstanding/1850514](https://sciencenorway.no/ulv/wolf-packs-dont-actually-have-alpha-males-and-alpha-females-the-idea-is-based-on-a-misunderstanding/1850514)
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4233739/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4233739/)
+
+[https://www.forschung-und-lehre.de/karriere/wie-sich-die-koerpergroesse-auf-den-berufserfolg-auswirkt-3379/](https://www.forschung-und-lehre.de/karriere/wie-sich-die-koerpergroesse-auf-den-berufserfolg-auswirkt-3379/)
 
 Günter Wöhe/Ulrich Döring, Einführung in die Allgemeine Betriebswirtschaftslehre, 25. Auflage, 2013, S. 108
 
 </span>
 </section>
----
-<section data-background-image="bg1.png">
 
-## Thank you!
 
-</section>
 <style>
     #structure {
         padding-top: 0em;
@@ -292,7 +304,7 @@ Günter Wöhe/Ulrich Döring, Einführung in die Allgemeine Betriebswirtschaftsl
     }
 
     #links {
-        font-size: 16pt;
+        font-size: 14pt;
     }
 
     .slide {
