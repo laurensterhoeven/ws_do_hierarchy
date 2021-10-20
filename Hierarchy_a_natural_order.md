@@ -105,7 +105,7 @@
   </tr>
   <tr>
     <td>Wolves</td>
-    <td>familiy hierarchy</td>
+    <td>family hierarchy</td>
   </tr>
   <tr>
     <td>Birds</td>
